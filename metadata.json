@@ -1,0 +1,6 @@
+{
+  "name": "Apex Clutch",
+  "description": "Realistic 3D manual-transmission car simulator featuring clutch bite-point physics, engine stall dynamics, custom track builder, and real-time multiplayer.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
